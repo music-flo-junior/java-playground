@@ -1,3 +1,6 @@
 [submodule "java-baseball-playground"]
 	path = java-baseball-playground
 	url = git@jiae:music-flo-junior/java-baseball-playground.git
+[submodule "java-racingcar-playground"]
+	path = java-racingcar-playground
+	url = git@jiae:music-flo-junior/java-racingcar-playground.git
