@@ -7,3 +7,6 @@
 [submodule "java-coordinate-playground"]
 	path = java-coordinate-playground
 	url = git@jiae:music-flo-junior/java-coordinate-playground.git
+[submodule "java-blackjack-playground"]
+	path = java-blackjack-playground
+	url = git@jiae:music-flo-junior/java-blackjack-playground.git
