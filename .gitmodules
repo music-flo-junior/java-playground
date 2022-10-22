@@ -1,0 +1,3 @@
+[submodule "java-baseball-playground"]
+	path = java-baseball-playground
+	url = git@jiae:music-flo-junior/java-baseball-playground.git
