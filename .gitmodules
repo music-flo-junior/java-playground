@@ -4,3 +4,6 @@
 [submodule "java-racingcar-playground"]
 	path = java-racingcar-playground
 	url = git@jiae:music-flo-junior/java-racingcar-playground.git
+[submodule "java-coordinate-playground"]
+	path = java-coordinate-playground
+	url = git@jiae:music-flo-junior/java-coordinate-playground.git
